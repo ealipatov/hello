@@ -5,3 +5,4 @@ Hello, git!
 Изменение в хеллоу 
 git rebase
 hello, git cherry-pick!
+Hello, skwosh.
